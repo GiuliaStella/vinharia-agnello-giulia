@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   var botao = document.getElementById("meuBotao");
   botao.addEventListener("click", function() {
@@ -29,3 +30,7 @@
 
 
 
+=======
+var Nome = prompt('Digite seu nome: ');
+var Sobrenome = prompt('Digite seu sobrenome: ');
+>>>>>>> f32eaca (atualização e cadastro do usuário)
